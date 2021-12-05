@@ -1,0 +1,3 @@
+D:/Programming/c++/MySkillBoxApp/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming/c++/MySkillBoxApp/cmake-build-debug/CMakeFiles/MySkillBoxApp.dir
+D:/Programming/c++/MySkillBoxApp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
