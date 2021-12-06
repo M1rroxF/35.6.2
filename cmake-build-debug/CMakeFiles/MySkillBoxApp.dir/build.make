@@ -66,6 +66,7 @@ include CMakeFiles/MySkillBoxApp.dir/progress.make
 include CMakeFiles/MySkillBoxApp.dir/flags.make
 
 CMakeFiles/MySkillBoxApp.dir/main.cpp.obj: CMakeFiles/MySkillBoxApp.dir/flags.make
+CMakeFiles/MySkillBoxApp.dir/main.cpp.obj: CMakeFiles/MySkillBoxApp.dir/includes_CXX.rsp
 CMakeFiles/MySkillBoxApp.dir/main.cpp.obj: ../main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Programming\c++\MySkillBoxApp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/MySkillBoxApp.dir/main.cpp.obj"
 	C:\minGWx64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MySkillBoxApp.dir\main.cpp.obj -c D:\Programming\c++\MySkillBoxApp\main.cpp
@@ -87,6 +88,9 @@ MySkillBoxApp_EXTERNAL_OBJECTS =
 
 MySkillBoxApp.exe: CMakeFiles/MySkillBoxApp.dir/main.cpp.obj
 MySkillBoxApp.exe: CMakeFiles/MySkillBoxApp.dir/build.make
+MySkillBoxApp.exe: D:/bestProgs/QT/qt/5.12.12/mingw73_64/lib/libQt5Widgetsd.a
+MySkillBoxApp.exe: D:/bestProgs/QT/qt/5.12.12/mingw73_64/lib/libQt5Guid.a
+MySkillBoxApp.exe: D:/bestProgs/QT/qt/5.12.12/mingw73_64/lib/libQt5Cored.a
 MySkillBoxApp.exe: CMakeFiles/MySkillBoxApp.dir/linklibs.rsp
 MySkillBoxApp.exe: CMakeFiles/MySkillBoxApp.dir/objects1.rsp
 MySkillBoxApp.exe: CMakeFiles/MySkillBoxApp.dir/link.txt

@@ -1,1 +1,1 @@
--IC:/boost_1_77_0
+-isystem D:/bestProgs/QT/qt/5.12.12/mingw73_64/include -isystem D:/bestProgs/QT/qt/5.12.12/mingw73_64/include/QtWidgets -isystem D:/bestProgs/QT/qt/5.12.12/mingw73_64/include/QtGui -isystem D:/bestProgs/QT/qt/5.12.12/mingw73_64/include/QtANGLE -isystem D:/bestProgs/QT/qt/5.12.12/mingw73_64/include/QtCore -isystem D:/bestProgs/QT/qt/5.12.12/mingw73_64/./mkspecs/win32-g++
