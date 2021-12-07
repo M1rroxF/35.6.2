@@ -9,18 +9,18 @@ add_executable(MySkillBoxApp main.cpp)
 
 #QT
 
-set(CMAKE_PREFIX_PATH "D:\\bestProgs\\QT\\qt\\5.12.12\\mingw73_64\\lib\\cmake")
-find_package(Qt5Widgets REQUIRED)
-target_link_libraries(MySkillBoxApp Qt5::Widgets)
-find_package(Qt5 COMPONENTS
-        Core
-        Gui
-        Widgets
-        REQUIRED)
-target_link_libraries(MySkillBoxApp
-        Qt5::Core
-        Qt5::Gui
-        Qt5::Widgets)
+#set(CMAKE_PREFIX_PATH "D:\\bestProgs\\QT\\qt\\5.12.12\\mingw73_64\\lib\\cmake")
+#find_package(Qt5Widgets REQUIRED)
+#target_link_libraries(MySkillBoxApp Qt5::Widgets)
+#find_package(Qt5 COMPONENTS
+#        Core
+#        Gui
+#        Widgets
+#        REQUIRED)
+#target_link_libraries(MySkillBoxApp
+#        Qt5::Core
+#        Qt5::Gui
+#        Qt5::Widgets)
 
 ##########################################################################
 

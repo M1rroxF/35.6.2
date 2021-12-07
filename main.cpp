@@ -1,8 +1,9 @@
 #include <iostream>
-#include <Qt>
 
 using namespace std;
 
 int main() {
-    cout << "Hello, World!" << endl;
+    initializer_list<int> f = {1, 2, 3, 4, 5};
+    for (auto& i: f)
+        cout << i << endl;
 }
